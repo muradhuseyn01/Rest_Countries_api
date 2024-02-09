@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Nunito Sans;
+    color: var(--text-dark);
+}
+
+ul li{
+    list-style: none;
+}
+b{
+    font-weight: 600;
+}
+a{
+    text-decoration: none;
+}
